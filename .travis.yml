@@ -10,9 +10,9 @@ addons:
       secure: "7116cbc8a61b1ab205155c9a4c73e0d476457c10"
       
 script:
-  - make clean
   - build/workspaces/update-workspaces.sh --with-system-nvtt
-  - build-wrapper-linux-x86-64 --out-dir bw-output make all make -C build/workspaces/gcc
+  - build-wrapper-linux-x86-64 --out-dir bw-output make all
+  - make -C build/workspaces/gcc
   - make test
   - sonar-scanner
 
