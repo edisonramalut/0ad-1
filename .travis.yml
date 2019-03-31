@@ -11,13 +11,9 @@ addons:
       
 script:
   - make clean
-  # Wraps the compilation with the Build Wrapper to generate configuration (used
-  # later by the SonarQube Scanner) into the "bw-output" folder
-  - build-wrapper-linux-x86-64 --out-dir bw-output make all
-  # Execute some tests
+  - build/workspaces/update-workspaces.sh --with-system-nvtt
+  - build-wrapper-linux-x86-64 --out-dir bw-output make all make -C build/workspaces/gcc
   - make test
-  # And finally run the SonarQube analysis - read the "sonar-project.properties"
-  # file to see the specific configuration
   - sonar-scanner
 
 matrix:
@@ -101,9 +97,3 @@ sudo apt-get update
 sudo apt-get install -q -y libsodium-dev libgloox-dev libenet-dev libboost1.58-dev libboost-filesystem1.58-dev
 sudo apt-get install -q libegl1-mesa-dev libgles2-mesa-dev
 sudo apt-get install -q libcurl4-gnutls-dev libicu-dev libminiupnpc-dev libnspr4-dev libnvtt-dev libogg-dev libopenal-dev libpng-dev libsdl2-dev libvorbis-dev libwxgtk3.0-dev libxcursor-dev libxml2-dev zlib1g-dev
-
-script:
-  - export CXX=$CXX$Tr_Compiler_Version
-  - export CC=$CC$Tr_Compiler_Version
-  - build/workspaces/update-workspaces.sh
-  - make -C build/workspaces/gcc
