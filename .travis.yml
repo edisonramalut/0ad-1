@@ -8,21 +8,6 @@ addons:
     organization: "edisonramalut-github"
     token:
       secure: "7116cbc8a61b1ab205155c9a4c73e0d476457c10"
-      
-script:
-  - make clean
-  # Wraps the compilation with the Build Wrapper to generate configuration (used
-  # later by the SonarQube Scanner) into the "bw-output" folder
-  - build-wrapper-linux-x86-64 --out-dir bw-output make all
-  # Execute some tests
-  - make test
-  # And finally run the SonarQube analysis - read the "sonar-project.properties"
-  # file to see the specific configuration
-  - export CXX=$CXX$Tr_Compiler_Version
-  - export CC=$CC$Tr_Compiler_Version
-  - build/workspaces/update-workspaces.sh
-  - make -C build/workspaces/gcc
-  - sonar-scanner
 
 matrix:
   include:
@@ -100,8 +85,16 @@ matrix:
 #      env: Tr_Xcode_Version="9.3beta"
 
 before_install:
-sudo add-apt-repository -y ppa:wfg/0ad
-sudo apt-get update
-sudo apt-get install -q -y libsodium-dev libgloox-dev libenet-dev libboost1.58-dev libboost-filesystem1.58-dev
-sudo apt-get install -q libegl1-mesa-dev libgles2-mesa-dev
-sudo apt-get install -q libcurl4-gnutls-dev libicu-dev libminiupnpc-dev libnspr4-dev libnvtt-dev libogg-dev libopenal-dev libpng-dev libsdl2-dev libvorbis-dev libwxgtk3.0-dev libxcursor-dev libxml2-dev zlib1g-dev
+  - sudo add-apt-repository -y ppa:wfg/0ad
+  - sudo apt-get update
+  - sudo apt-get install -q -y libsodium-dev libgloox-dev libenet-dev libboost1.58-dev libboost-filesystem1.58-dev
+  - sudo apt-get install -q libegl1-mesa-dev libgles2-mesa-dev
+  # install the remaining dependencies
+  - sudo apt-get install -q libcurl4-gnutls-dev libicu-dev libminiupnpc-dev libnspr4-dev libnvtt-dev libogg-dev libopenal-dev libpng-dev libsdl2-dev libvorbis-dev libwxgtk3.0-dev libxcursor-dev libxml2-dev zlib1g-dev
+
+script:
+  - export CXX=$CXX$Tr_Compiler_Version
+  - export CC=$CC$Tr_Compiler_Version
+  - build/workspaces/update-workspaces.sh
+  - build-wrapper-linux-x86-64 --out-dir bw-output make build/workspaces/gcc
+  - sonar-scanner
