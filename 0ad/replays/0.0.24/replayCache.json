@@ -1,0 +1,1157 @@
+[
+  {
+    "directory": "2019-02-17_0001",
+    "fileSize": 31736,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "iber",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Bindusara Maurya",
+            "Civ": "maur",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 3976177764,
+        "AISeed": 1110568750
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "E678513829274275",
+      "timestamp": 1550362545,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "public",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 237
+  },
+  {
+    "directory": "2019-03-31_0001",
+    "fileSize": 7276,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "athen",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          },
+          {
+            "Name": "Karatakos",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": -1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 4245539819,
+        "AISeed": 238957617
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "F3E19C215E82E54E",
+      "timestamp": 1554064041,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "public",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 60
+  },
+  {
+    "directory": "2019-04-01_0001",
+    "fileSize": 4655,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Cogidubnus",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 3429022557,
+        "AISeed": 230015566
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "6A713E2B65A9A5A6",
+      "timestamp": 1554072323,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 34
+  },
+  {
+    "directory": "2019-04-01_0002",
+    "fileSize": 3746,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Prasutagus",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 688360068,
+        "AISeed": 2954112595
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "55A0D7C673031C4F",
+      "timestamp": 1554073229,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 25
+  },
+  {
+    "directory": "2019-04-01_0003",
+    "fileSize": 1944,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Dubnovellaunus",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 1870107661,
+        "AISeed": 3560917894
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "044EF60A2107D441",
+      "timestamp": 1554074399,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 5
+  },
+  {
+    "directory": "2019-04-01_0004",
+    "fileSize": 5381,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Prasutagus",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 3330810590,
+        "AISeed": 1025763675
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "447E7CE9BB79CE6F",
+      "timestamp": 1554074958,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 42
+  },
+  {
+    "directory": "2019-04-01_0005",
+    "fileSize": 1812,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Boudicca",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 2997307532,
+        "AISeed": 4110632978
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "A34144D70BC74CD1",
+      "timestamp": 1554076104,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 3
+  },
+  {
+    "directory": "2019-04-01_0006",
+    "fileSize": 2981,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Commius",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 1909569348,
+        "AISeed": 2874045728
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "BEDC19BD22DAFD2F",
+      "timestamp": 1554076642,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 16
+  },
+  {
+    "directory": "2019-04-01_0007",
+    "fileSize": 2045,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Venutius",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 342102864,
+        "AISeed": 2191050003
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "33A0E8CAF3908A8F",
+      "timestamp": 1554076803,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 6
+  },
+  {
+    "directory": "2019-04-01_0008",
+    "fileSize": 5645,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Boudicca",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 1293924665,
+        "AISeed": 3158934534
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "98E31857A31ECBA7",
+      "timestamp": 1554077399,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 45
+  },
+  {
+    "directory": "2019-04-01_0009",
+    "fileSize": 2354,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Cogidubnus",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 3664978553,
+        "AISeed": 2395101248
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "36F01AC314827FF5",
+      "timestamp": 1554078153,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 9
+  },
+  {
+    "directory": "2019-04-01_0010",
+    "fileSize": 10300,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Karatakos",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 3655714347,
+        "AISeed": 402326497
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "6DB7830852C884F3",
+      "timestamp": 1554078278,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 94
+  },
+  {
+    "directory": "2019-04-01_0011",
+    "fileSize": 2423,
+    "attribs": {
+      "settings": {
+        "PlayerData": [
+          {
+            "Name": "Edison",
+            "Civ": "azge",
+            "Color": {
+              "r": 21,
+              "g": 55,
+              "b": 149
+            },
+            "AI": "",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 0
+          },
+          {
+            "Name": "Boudicca",
+            "Civ": "brit",
+            "Color": {
+              "r": 150,
+              "g": 20,
+              "b": 20
+            },
+            "AI": "petra",
+            "AIDiff": 3,
+            "AIBehavior": "random",
+            "Team": 1
+          }
+        ],
+        "CircularMap": true,
+        "Description": "Each player starts the match atop a large flat plateau, otherwise known as an acropolis.\n\nTo the East lies a large bay with fishing opportunities. To the West is a rugged hinterland with an unclaimed acropolis commanding the valley below.",
+        "Keywords": [],
+        "LockTeams": false,
+        "Name": "Acropolis Bay (2)",
+        "Preview": "acropolis_bay.png",
+        "RevealMap": false,
+        "VictoryConditions": [
+          "conquest"
+        ],
+        "Size": 256,
+        "PopulationCap": 300,
+        "StartingResources": 300,
+        "Ceasefire": 0,
+        "RelicCount": 2,
+        "RelicDuration": 20,
+        "WonderDuration": 20,
+        "RegicideGarrison": false,
+        "Nomad": false,
+        "ExploreMap": false,
+        "DisableTreasures": false,
+        "DisableSpies": false,
+        "LastManStanding": false,
+        "CheatsEnabled": true,
+        "RatingEnabled": false,
+        "VictoryScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "TriggerScripts": [
+          "scripts/TriggerHelper.js",
+          "scripts/ConquestCommon.js",
+          "scripts/Conquest.js"
+        ],
+        "mapType": "skirmish",
+        "Seed": 2149131518,
+        "AISeed": 651054404
+      },
+      "mapType": "skirmish",
+      "mapPath": "maps/skirmishes/",
+      "mapFilter": "default",
+      "map": "maps/skirmishes/Acropolis Bay (2)",
+      "gameSpeed": 1,
+      "matchID": "D13AAC095777E66F",
+      "timestamp": 1554080845,
+      "engine_version": "0.0.24",
+      "mods": [
+        [
+          "software_maintenance",
+          "0.0.24"
+        ]
+      ]
+    },
+    "duration": 10
+  }
+]

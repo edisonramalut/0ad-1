@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_javelinist">
+  <Identity>
+    <Civ>azge</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Iphicrates</GenericName>
+    <SpecificName>Iphikratēs</SpecificName>
+    <Icon>units/azge_hero_iphicrates.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/azgeda/hero_infantry_javelinist_xenophon.xml</Actor>
+  </VisualActor>
+</Entity>

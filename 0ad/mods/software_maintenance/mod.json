@@ -1,0 +1,8 @@
+{
+	"name": "0ad-SM",
+	"version": "0.0.24",
+	"label": "0 A.D. Empires Ascendant SM",
+	"url": "https://play0ad.com",
+	"description": "Software maintenance custom mod.",
+	"dependencies": []
+}

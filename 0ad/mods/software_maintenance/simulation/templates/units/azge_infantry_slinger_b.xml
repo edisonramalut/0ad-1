@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_ranged_slinger">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/azge_gymnasion
+      structures/azge_theatron
+      structures/azge_prytaneion
+      structures/azge_royal_stoa
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>azge</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/azge_infantry_slinger_b</SelectionGroupName>
+    <GenericName>Azgeda Slinger Militia</GenericName>
+    <SpecificName>Psilòs Azgeda</SpecificName>
+    <Icon>units/azge_infantry_slinger.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/azge_infantry_slinger_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/azgeda/infantry_slinger_b.xml</Actor>
+  </VisualActor>
+</Entity>
